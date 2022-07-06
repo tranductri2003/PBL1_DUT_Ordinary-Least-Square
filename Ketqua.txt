@@ -1,0 +1,7 @@
+
+File 1.txt co bieu thuc thoa man la: 
+y=0.14.x^3.00
+File 2.txt co bieu thuc thoa man la: 
+y=10.50.x^1.50
+File 3.txt co bieu thuc thoa man la: 
+y=5.00.x^2.00

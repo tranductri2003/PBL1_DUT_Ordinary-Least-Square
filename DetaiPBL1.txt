@@ -1,0 +1,10 @@
+------------------------------ Thong tin chuong trinh ------------------------------
+-  Chuong trinh xay dung bieu thuc dang phi tuyen tinh f(x) = ax^b                 -
+-  bang phuong phap binh phuong toi thieu.                                         -
+-      Khai bao du lieu:                                                           -
+-        + Mang x gom n phan tu.                                                   -
+-        + Mang y gom n phan tu.                                                   -
+-      Yeu cau:                                                                    -
+-        + Doc n, cac phan tu cua vecto x, vecto y tu file *.INP.                  -
+-        + Ghi ket qua la he so a, b cua bieu thu ham f(x) ra man hinh.            -
+------------------------------------------------------------------------------------
